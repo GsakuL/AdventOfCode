@@ -1,0 +1,16 @@
+{
+  "[python]": {
+    "editor.rulers": [
+      88,
+      120,
+    ],
+  },
+  "python.formatting.provider": "yapf",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.codeActionsOnSave": {
+    //"source.sortImports": true,
+    "source.organizeImports": true
+  },
+  "python.linting.flake8Enabled": true,
+}
